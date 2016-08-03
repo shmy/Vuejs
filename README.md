@@ -4,8 +4,7 @@
 - [x] 2. vue-resource
 - [x] 3. vue-router
 - [x] 4. vue-router-transition
-- [x] 5. vuex
-- [x] 6. vux
+- [x] 5. vux
 
 ## 特点：
 1. 基于Vue-cli生成
